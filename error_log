@@ -1,0 +1,74 @@
+[10-May-2019 20:38:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/murri65hpxsq/public_html/subdomain/blog/template/db_connection.php on line 11
+[10-May-2019 20:38:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/murri65hpxsq/public_html/subdomain/blog/admin/template/functions.php on line 40
+[10-May-2019 20:38:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/murri65hpxsq/public_html/subdomain/blog/admin/template/functions.php on line 42
+[10-May-2019 20:38:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/murri65hpxsq/public_html/subdomain/blog/admin/template/functions.php on line 40
+[10-May-2019 20:38:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/murri65hpxsq/public_html/subdomain/blog/admin/template/functions.php on line 42
+[10-May-2019 20:50:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/template/nav.php:52) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 20:50:11 UTC] PHP Notice:  Undefined index: role in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 31
+[10-May-2019 20:50:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/profile.php:31) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 20:54:13 UTC] PHP Notice:  Undefined index: role in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 31
+[10-May-2019 20:54:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/profile.php:31) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 20:54:43 UTC] PHP Notice:  Undefined index: role in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 31
+[10-May-2019 20:54:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/profile.php:31) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 20:55:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/template/nav.php:52) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 20:55:18 UTC] PHP Notice:  Undefined index: role in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 31
+[10-May-2019 20:55:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/profile.php:31) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 20:56:51 UTC] PHP Notice:  Undefined index: role in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 31
+[10-May-2019 20:56:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/profile.php:31) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 21:11:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/murri65hpxsq/public_html/subdomain/blog/admin/template/functions.php on line 42
+[10-May-2019 21:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/murri65hpxsq/public_html/subdomain/blog/post.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/murri65hpxsq/public_html/subdomain/blog/post.php on line 13
+[10-May-2019 21:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/murri65hpxsq/public_html/subdomain/blog/post.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/murri65hpxsq/public_html/subdomain/blog/post.php on line 15
+[10-May-2019 21:28:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/template/nav.php:52) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 21:29:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/template/nav.php:52) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[10-May-2019 21:30:30 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[10-May-2019 21:30:31 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[10-May-2019 21:30:31 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[11-May-2019 07:55:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/template/nav.php:52) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[12-May-2019 06:47:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/murri65hpxsq/public_html/subdomain/blog/template/nav.php:52) in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 54
+[16-May-2019 13:30:08 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:08 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:08 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:08 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:08 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:08 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:08 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:08 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:09 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
+[16-May-2019 13:30:10 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 6
+[16-May-2019 13:30:10 UTC] PHP Notice:  Undefined index: user_id in /home/murri65hpxsq/public_html/subdomain/blog/profile.php on line 10
