@@ -2,7 +2,7 @@
 Blog created with PHP,MySQL,JS and Bootsrap
 
 
-| Login  | Main  |
+| Dashboard  | Main |
 | :------------ |:---------------:|
 | ![](images/dashboard.png)    | ![](images/blog.png) |
 
