@@ -1,5 +1,6 @@
 # Self-Improve-Blog
 Blog created with PHP,MySQL,JS and Bootsrap
+![](images/dashboard.png)
 
 ## how to use? 
 
