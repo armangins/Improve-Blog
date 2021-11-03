@@ -1,6 +1,10 @@
 # Self-Improve-Blog
 Blog created with PHP,MySQL,JS and Bootsrap
-![](images/dashboard.png)
+
+
+| Login  | Main  |
+| :------------ |:---------------:|
+| ![](images/dashboard.png)    | ![](images/blog.png) |
 
 ## how to use? 
 
